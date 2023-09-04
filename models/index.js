@@ -1,0 +1,11 @@
+module.exports.User = require("./user.model");
+module.exports.Hotel =require("./hotel.model");
+module.exports.Bus =require("./bus.model");
+module.exports.Bus =require("./stationary.model");
+module.exports.Bus =require("./school.model");
+module.exports.Bus =require("./travel.model");
+module.exports.Bus =require("./pharmacy.model");
+module.exports.Bus =require("./jewellery.model");
+module.exports.Bus =require("./movie.model");
+module.exports.Bus =require("./music.model");
+module.exports.Bus =require("./grocery.model");
